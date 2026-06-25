@@ -1,6 +1,6 @@
 # 이유경 · KDT AI·빅데이터 전문가 양성과정 12기 미니프로젝트 모음
 
-> 6년 보건의료 경험을 가진 간호사 출신 데이터 분석가  
+> 6년 보건의료 경험을 가진 간호사 출신 AI 엔지니어  
 > 의료·헬스케어 도메인 지식과 데이터 분석·ML·웹 서비스 개발을 연결합니다
 
 [![GitHub](https://img.shields.io/badge/GitHub-lyk9321-181717?logo=github)](https://github.com/lyk9321)
@@ -13,7 +13,7 @@
 
 | 항목 | 내용 |
 |------|------|
-| 과정명 | KDT AI·빅데이터 전문가 양성과정 12기 (경북대학교) |
+| 과정명 | 경북대학교 KDT AI·빅데이터 전문가 양성과정 12기 |
 | 기간 | 2026.01 ~ 2026.06 |
 | 주요 기술 | Python · Scikit-learn · Streamlit · FastAPI · React · MySQL · YOLO |
 
