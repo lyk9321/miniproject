@@ -3,7 +3,7 @@
 > 수기·Excel 근무표 관리의 비효율을 해소하기 위해 관리자·직원 역할을 분리하여 설계·구현한 교대 근무 스케줄 관리 웹 서비스
 
 `Python` `FastAPI` `React` `MySQL` `Docker` | 2026.04.27 ~ 05.04 | 팀 프로젝트 (4인)  
-**팀 레포:** [shiftmate0/shiftmate](https://github.com/shiftmate0/shiftmate)  
+**팀 레포지토리:** [shiftmate0/shiftmate](https://github.com/shiftmate0/shiftmate)  
 **담당:** 휴무·휴가 신청 API · 관리자 대시보드 FE·BE · 요청 관리 화면 · 공통 레이아웃 · FE·BE 연동
 
 ### 담당 파일
